@@ -1,0 +1,7 @@
+[project]
+name = "Backend-ohjelmointi-kevat-2026"
+version = "0.1.0"
+description = "opintojakson koodit"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
